@@ -5,7 +5,7 @@ Test script to verify recommendation logic
 
 import sys
 import os
-sys.path.append(os.path.join(os.path.dirname(__file__), 'backend'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'backend'))
 
 from backend.app.services.recommender import RecommenderService
 
@@ -78,6 +78,36 @@ def test_other_recommendations():
     for i, rec in enumerate(recommendations2, 1):
         print(f"  {i}. {rec.title} (Score: {rec.similarity_score:.3f})")
 
+def test_error_handling():
+    """Test error handling scenarios"""
+    print("\n🧪 Testing error handling...")
+    
+    recommender = RecommenderService()
+    
+    # Test: Empty preferences
+    try:
+        recommendations = recommender.get_recommendations(
+            source_category="movies",
+            target_category="games",
+            preferences=[],
+            limit=5
+        )
+        print("❌ Should have raised error for empty preferences")
+    except ValueError as e:
+        print(f"✅ Correctly handled empty preferences: {e}")
+    
+    # Test: Invalid category
+    try:
+        recommendations = recommender.get_recommendations(
+            source_category="invalid",
+            target_category="games",
+            preferences=["test"],
+            limit=5
+        )
+        print("❌ Should have raised error for invalid category")
+    except ValueError as e:
+        print(f"✅ Correctly handled invalid category: {e}")
+
 if __name__ == "__main__":
     print("🔍 Testing Recommendation System Logic")
     print("=" * 50)
@@ -85,6 +115,7 @@ if __name__ == "__main__":
     try:
         test_minecraft_recommendation()
         test_other_recommendations()
+        test_error_handling()
         print("\n✅ All tests completed!")
     except Exception as e:
         print(f"\n❌ Error during testing: {e}")

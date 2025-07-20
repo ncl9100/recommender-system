@@ -134,8 +134,12 @@ recommender-system/
 
 ### Test the Backend
 ```bash
+# Test the recommendation logic
 cd backend
-python ../test_logic.py
+python ../tests/test_logic.py
+
+# Test the API endpoints (make sure backend is running)
+python ../tests/test_api.py
 ```
 
 ### Test the API
@@ -154,10 +158,13 @@ curl -X POST "http://localhost:8000/recommend" \
 
 ### Local Development
 ```bash
-# Start both servers
-./start.sh  # Linux/Mac
-# or
-start.bat   # Windows
+# Start backend
+cd backend
+python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+
+# Start frontend (in new terminal)
+cd frontend
+npm run dev
 ```
 
 ### Production Deployment

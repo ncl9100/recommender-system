@@ -28,8 +28,6 @@ recommender-system/
 │   ├── package.json                 # Node.js dependencies
 │   └── vite.config.ts               # Vite configuration
 ├── README.md                        # Project documentation
-├── start.bat                        # Windows startup script
-├── start.sh                         # Linux/Mac startup script
 ├── .gitignore                       # Git ignore rules
 └── test_*.py                        # Test scripts
 ```
