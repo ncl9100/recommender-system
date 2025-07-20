@@ -1,0 +1,22 @@
+[
+  {"id": "song_1", "title": "Bohemian Rhapsody", "genre": "Rock", "year": 1975, "rating": 4.8, "description": "Epic rock opera by Queen"},
+  {"id": "song_2", "title": "Imagine", "genre": "Pop", "year": 1971, "rating": 4.7, "description": "Peace anthem by John Lennon"},
+  {"id": "song_3", "title": "Hotel California", "genre": "Rock", "year": 1976, "rating": 4.6, "description": "Classic rock ballad by Eagles"},
+  {"id": "song_4", "title": "Stairway to Heaven", "genre": "Rock", "year": 1971, "rating": 4.7, "description": "Epic rock masterpiece by Led Zeppelin"},
+  {"id": "song_5", "title": "Billie Jean", "genre": "Pop", "year": 1983, "rating": 4.5, "description": "Pop dance hit by Michael Jackson"},
+  {"id": "song_6", "title": "Like a Rolling Stone", "genre": "Rock", "year": 1965, "rating": 4.6, "description": "Folk rock classic by Bob Dylan"},
+  {"id": "song_7", "title": "Smells Like Teen Spirit", "genre": "Rock", "year": 1991, "rating": 4.5, "description": "Grunge anthem by Nirvana"},
+  {"id": "song_8", "title": "Yesterday", "genre": "Pop", "year": 1965, "rating": 4.4, "description": "Beatles classic ballad"},
+  {"id": "song_9", "title": "Sweet Child O' Mine", "genre": "Rock", "year": 1987, "rating": 4.6, "description": "Hard rock anthem by Guns N' Roses"},
+  {"id": "song_10", "title": "Wonderwall", "genre": "Rock", "year": 1995, "rating": 4.3, "description": "Britpop classic by Oasis"},
+  {"id": "song_11", "title": "Creep", "genre": "Rock", "year": 1993, "rating": 4.4, "description": "Alternative rock by Radiohead"},
+  {"id": "song_12", "title": "Nothing Else Matters", "genre": "Rock", "year": 1991, "rating": 4.5, "description": "Metallica ballad"},
+  {"id": "song_13", "title": "Wish You Were Here", "genre": "Rock", "year": 1975, "rating": 4.6, "description": "Pink Floyd classic"},
+  {"id": "song_14", "title": "Comfortably Numb", "genre": "Rock", "year": 1979, "rating": 4.7, "description": "Pink Floyd progressive rock"},
+  {"id": "song_15", "title": "Hey Jude", "genre": "Pop", "year": 1968, "rating": 4.5, "description": "Beatles sing-along classic"},
+  {"id": "song_16", "title": "Let It Be", "genre": "Pop", "year": 1970, "rating": 4.4, "description": "Beatles inspirational ballad"},
+  {"id": "song_17", "title": "Bridge Over Troubled Water", "genre": "Pop", "year": 1970, "rating": 4.6, "description": "Simon & Garfunkel classic"},
+  {"id": "song_18", "title": "The Sound of Silence", "genre": "Pop", "year": 1964, "rating": 4.5, "description": "Simon & Garfunkel folk classic"},
+  {"id": "song_19", "title": "Hallelujah", "genre": "Folk", "year": 1984, "rating": 4.8, "description": "Leonard Cohen masterpiece"},
+  {"id": "song_20", "title": "Imagine Dragons - Radioactive", "genre": "Pop", "year": 2012, "rating": 4.2, "description": "Modern pop rock anthem"}
+] 

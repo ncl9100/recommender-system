@@ -1,0 +1,23 @@
+[
+  {"id": "movie_1", "title": "The Lord of the Rings", "genre": "Fantasy", "year": 2001, "rating": 8.9, "description": "Epic fantasy adventure about a quest to destroy a powerful ring"},
+  {"id": "movie_2", "title": "Harry Potter and the Sorcerer's Stone", "genre": "Fantasy", "year": 2001, "rating": 7.6, "description": "Magical school adventure for young wizards"},
+  {"id": "movie_3", "title": "The Matrix", "genre": "Sci-Fi", "year": 1999, "rating": 8.7, "description": "Cyberpunk action thriller about virtual reality"},
+  {"id": "movie_4", "title": "Inception", "genre": "Sci-Fi", "year": 2010, "rating": 8.8, "description": "Mind-bending thriller about dream infiltration"},
+  {"id": "movie_5", "title": "The Shawshank Redemption", "genre": "Drama", "year": 1994, "rating": 9.3, "description": "Prison drama about hope and friendship"},
+  {"id": "movie_6", "title": "Pulp Fiction", "genre": "Crime", "year": 1994, "rating": 8.9, "description": "Quirky crime anthology with interconnected stories"},
+  {"id": "movie_7", "title": "The Godfather", "genre": "Crime", "year": 1972, "rating": 9.2, "description": "Epic crime drama about the Corleone family"},
+  {"id": "movie_8", "title": "Titanic", "genre": "Romance", "year": 1997, "rating": 7.9, "description": "Epic romance disaster on the famous ship"},
+  {"id": "movie_9", "title": "The Hunger Games", "genre": "Sci-Fi", "year": 2012, "rating": 7.2, "description": "Dystopian action about survival games"},
+  {"id": "movie_10", "title": "The Fault in Our Stars", "genre": "Romance", "year": 2014, "rating": 7.7, "description": "Young adult romance about cancer patients"},
+  {"id": "movie_11", "title": "Gone Girl", "genre": "Thriller", "year": 2014, "rating": 8.1, "description": "Psychological thriller about a missing wife"},
+  {"id": "movie_12", "title": "The Martian", "genre": "Sci-Fi", "year": 2015, "rating": 8.0, "description": "Science fiction about surviving on Mars"},
+  {"id": "movie_13", "title": "Ready Player One", "genre": "Sci-Fi", "year": 2018, "rating": 7.5, "description": "Virtual reality adventure in a dystopian future"},
+  {"id": "movie_14", "title": "The Girl on the Train", "genre": "Thriller", "year": 2016, "rating": 6.5, "description": "Psychological thriller about unreliable narrators"},
+  {"id": "movie_15", "title": "Big Little Lies", "genre": "Drama", "year": 2017, "rating": 8.5, "description": "Drama about suburban mothers and secrets"},
+  {"id": "movie_16", "title": "The Silent Patient", "genre": "Thriller", "year": 2020, "rating": 7.8, "description": "Psychological thriller about a woman who stops speaking"},
+  {"id": "movie_17", "title": "The Social Network", "genre": "Drama", "year": 2010, "rating": 7.8, "description": "Drama about the founding of Facebook"},
+  {"id": "movie_18", "title": "La La Land", "genre": "Romance", "year": 2016, "rating": 8.0, "description": "Musical romance about aspiring artists in Los Angeles"},
+  {"id": "movie_19", "title": "Get Out", "genre": "Thriller", "year": 2017, "rating": 7.7, "description": "Horror thriller about racial tensions"},
+  {"id": "movie_20", "title": "Parasite", "genre": "Thriller", "year": 2019, "rating": 8.6, "description": "South Korean thriller about class inequality"},
+  {"id": "movie_21", "title": "Minecraft: The Movie", "genre": "Adventure", "year": 2025, "rating": 7.5, "description": "Adventure movie based on the popular sandbox game about building and survival"}
+] 

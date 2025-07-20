@@ -1,0 +1,22 @@
+[
+  {"id": "game_1", "title": "The Legend of Zelda", "genre": "Adventure", "year": 1986, "rating": 4.8, "description": "Classic adventure game about saving Princess Zelda"},
+  {"id": "game_2", "title": "Final Fantasy VII", "genre": "RPG", "year": 1997, "rating": 4.7, "description": "Epic RPG adventure in a cyberpunk world"},
+  {"id": "game_3", "title": "Super Mario Bros", "genre": "Platformer", "year": 1985, "rating": 4.6, "description": "Classic platformer about saving Princess Peach"},
+  {"id": "game_4", "title": "Tetris", "genre": "Puzzle", "year": 1984, "rating": 4.5, "description": "Classic puzzle game with falling blocks"},
+  {"id": "game_5", "title": "Minecraft", "genre": "Sandbox", "year": 2011, "rating": 4.7, "description": "Creative sandbox game about building and survival"},
+  {"id": "game_6", "title": "The Witcher 3", "genre": "RPG", "year": 2015, "rating": 4.8, "description": "Epic fantasy RPG with open world exploration"},
+  {"id": "game_7", "title": "Portal", "genre": "Puzzle", "year": 2007, "rating": 4.6, "description": "Innovative puzzle game with portal mechanics"},
+  {"id": "game_8", "title": "Red Dead Redemption 2", "genre": "Adventure", "year": 2018, "rating": 4.7, "description": "Western adventure game in the Wild West"},
+  {"id": "game_9", "title": "The Last of Us", "genre": "Adventure", "year": 2013, "rating": 4.8, "description": "Post-apocalyptic adventure about survival"},
+  {"id": "game_10", "title": "God of War", "genre": "Action", "year": 2018, "rating": 4.7, "description": "Action-adventure game based on Norse mythology"},
+  {"id": "game_11", "title": "Cyberpunk 2077", "genre": "RPG", "year": 2020, "rating": 4.2, "description": "Open-world RPG in a dystopian future"},
+  {"id": "game_12", "title": "Elden Ring", "genre": "RPG", "year": 2022, "rating": 4.8, "description": "Action RPG with challenging combat"},
+  {"id": "game_13", "title": "Animal Crossing", "genre": "Simulation", "year": 2020, "rating": 4.5, "description": "Relaxing life simulation game"},
+  {"id": "game_14", "title": "Among Us", "genre": "Strategy", "year": 2018, "rating": 4.3, "description": "Social deduction game about finding impostors"},
+  {"id": "game_15", "title": "Fall Guys", "genre": "Party", "year": 2020, "rating": 4.2, "description": "Battle royale party game with obstacle courses"},
+  {"id": "game_16", "title": "Valorant", "genre": "FPS", "year": 2020, "rating": 4.4, "description": "Tactical first-person shooter"},
+  {"id": "game_17", "title": "League of Legends", "genre": "MOBA", "year": 2009, "rating": 4.3, "description": "Multiplayer online battle arena game"},
+  {"id": "game_18", "title": "Fortnite", "genre": "Battle Royale", "year": 2017, "rating": 4.1, "description": "Battle royale game with building mechanics"},
+  {"id": "game_19", "title": "Genshin Impact", "genre": "RPG", "year": 2020, "rating": 4.4, "description": "Open-world action RPG with anime style"},
+  {"id": "game_20", "title": "Stardew Valley", "genre": "Simulation", "year": 2016, "rating": 4.6, "description": "Farming simulation game with RPG elements"}
+] 

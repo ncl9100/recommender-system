@@ -1,0 +1,22 @@
+[
+  {"id": "book_1", "title": "The Hobbit", "genre": "Fantasy", "year": 1937, "rating": 4.3, "description": "Fantasy adventure novel about a hobbit's journey"},
+  {"id": "book_2", "title": "1984", "genre": "Sci-Fi", "year": 1949, "rating": 4.2, "description": "Dystopian political fiction about surveillance society"},
+  {"id": "book_3", "title": "The Great Gatsby", "genre": "Drama", "year": 1925, "rating": 3.9, "description": "American classic novel about the Jazz Age"},
+  {"id": "book_4", "title": "To Kill a Mockingbird", "genre": "Drama", "year": 1960, "rating": 4.3, "description": "Coming-of-age story about racial injustice"},
+  {"id": "book_5", "title": "Pride and Prejudice", "genre": "Romance", "year": 1813, "rating": 4.3, "description": "Classic romance novel about love and marriage"},
+  {"id": "book_6", "title": "The Catcher in the Rye", "genre": "Drama", "year": 1951, "rating": 3.8, "description": "Coming-of-age novel about teenage alienation"},
+  {"id": "book_7", "title": "Brave New World", "genre": "Sci-Fi", "year": 1932, "rating": 3.9, "description": "Dystopian science fiction about genetic engineering"},
+  {"id": "book_8", "title": "The Alchemist", "genre": "Fantasy", "year": 1988, "rating": 3.9, "description": "Philosophical novel about following dreams"},
+  {"id": "book_9", "title": "Diary of a Wimpy Kid", "genre": "Comedy", "year": 2007, "rating": 4.0, "description": "Children's comedy about middle school life"},
+  {"id": "book_10", "title": "Harry Potter and the Sorcerer's Stone", "genre": "Fantasy", "year": 1997, "rating": 4.5, "description": "Magical school adventure for young wizards"},
+  {"id": "book_11", "title": "The Hunger Games", "genre": "Sci-Fi", "year": 2008, "rating": 4.2, "description": "Dystopian young adult novel about survival games"},
+  {"id": "book_12", "title": "The Fault in Our Stars", "genre": "Romance", "year": 2012, "rating": 4.1, "description": "Young adult romance about cancer patients"},
+  {"id": "book_13", "title": "Gone Girl", "genre": "Thriller", "year": 2012, "rating": 4.0, "description": "Psychological thriller about a missing wife"},
+  {"id": "book_14", "title": "The Martian", "genre": "Sci-Fi", "year": 2011, "rating": 4.4, "description": "Science fiction about surviving on Mars"},
+  {"id": "book_15", "title": "Ready Player One", "genre": "Sci-Fi", "year": 2011, "rating": 4.2, "description": "Virtual reality adventure in a dystopian future"},
+  {"id": "book_16", "title": "The Girl on the Train", "genre": "Thriller", "year": 2015, "rating": 3.9, "description": "Psychological thriller about unreliable narrators"},
+  {"id": "book_17", "title": "Big Little Lies", "genre": "Drama", "year": 2014, "rating": 4.0, "description": "Drama about suburban mothers and secrets"},
+  {"id": "book_18", "title": "The Silent Patient", "genre": "Thriller", "year": 2019, "rating": 4.1, "description": "Psychological thriller about a woman who stops speaking"},
+  {"id": "book_19", "title": "Educated", "genre": "Memoir", "year": 2018, "rating": 4.4, "description": "Memoir about growing up in a survivalist family"},
+  {"id": "book_20", "title": "Becoming", "genre": "Memoir", "year": 2018, "rating": 4.3, "description": "Michelle Obama's memoir about her life journey"}
+] 
